@@ -1,4 +1,4 @@
-# modelling_gas_usage_ARIMA
+# Modelling_gas_usage_ARIMA
 For a school project we had to predict the usage of some type of energy. The data contains gas usage, electricity usage and delivery of electricity from solar panels. I chose to model gas usage since this is what we can to get rid of in the future. This is what the data looks like:
 ![image](https://user-images.githubusercontent.com/80387555/125467822-4a7d77b4-e676-4d18-859c-df184590c673.png)
 
